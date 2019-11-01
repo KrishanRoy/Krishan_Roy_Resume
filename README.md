@@ -1,6 +1,6 @@
 Krishan Roy
 ============
-646.693.3491 | KrishanRoy1989@gmail.com | [LinkedIn](linkedin.com/in/KrishanRoy) | [GitHub](github.com/KrishanRoy)
+646.693.3491 | KrishanRoy1989@gmail.com | [LinkedIn](https://www.linkedin.com/in/krishanroy/) | [GitHub](https://github.com/KrishanRoy)
 
 ## Skills
 Java, Android, XML, JSON, SQLite, JUnit, Mockito, IntelliJ, Android Studio, Git / GitHub, Retrofit, RxJava, Kotlin, MVP, MVVM
