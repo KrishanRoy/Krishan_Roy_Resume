@@ -1,5 +1,5 @@
-Krishan Roy
-============
+# Krishan Roy
+*************
 646.693.3491 | KrishanRoy1989@gmail.com | [LinkedIn](https://www.linkedin.com/in/krishanroy/) | [GitHub](https://www.github.com/KrishanRoy)
 
 ## Skills
@@ -38,7 +38,7 @@ Aug 2014 – Present<br/>
 
 ## Education
 #### Pursuit, Long Island City, NY							                                                                
-Sept 2018 – Present<br/>
+Sept 2018 – Present
 *Android Development Fellow*
 * Enrolled in an intensive 10-month, Google-funded software engineering fellowship whose graduates prepare consumer-level applications with a focus on design and usability by using the newest APIs and SDKs  
 * Reported progress and status of assigned tasks to project teams, instructors and mentors
